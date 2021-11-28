@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "fish.moc3",
 		"Textures": [
-			"fish.1024/texture_00.png"
+			"textures/texture_00.png"
 		],
 		"Physics": "fish.physics3.json",
 		"DisplayInfo": "fish.cdi3.json"
